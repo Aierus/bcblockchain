@@ -9,6 +9,6 @@ Welcome to BC Blockchain's new website. We're excited to bring you all plenty of
 
 We're expanding rapidly, and are currently looking for students who are interested in being analysts. Responsibilities include studying developments in the blockchain space and helping to write proposals for Venture Capital and DeFi grants.
 
-To join the mailing list, either click the link on the homepage or email blockchainatbc@gmail.com.
+To join the mailing list, either click the link in the footer or [here](http://eepurl.com/hdA6Sn).
 
 If you've got any feedback or comments on the website, please contact clarkui@bc.edu

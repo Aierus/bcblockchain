@@ -60,4 +60,23 @@ draft: false
 - [Blockchain Hackathons](https://www.hackathon.com/theme/blockchain)
 - [Chainlink Hackathon 2021](https://chain.link/hackathon)
 
-<h2> Want additional Resources? Email us at blockchainatbc@gmail.com </h2>
+<h2> Want additional Resources? Email us at cryptoatbc@gmail.com and signup for our mailing list below</h2>
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+ We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://bcblockchain.us4.list-manage.com/subscribe/post?u=8ef15f950e6118c012c96f58e&amp;id=958f077a2d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div id="mc_embed_signup_scroll">
+<label for="mce-EMAIL">Subscribe</label>
+<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8ef15f950e6118c012c96f58e_958f077a2d" tabindex="-1" value=""></div>
+<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</div>
+</form>
+</div>

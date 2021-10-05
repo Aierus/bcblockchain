@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>BC Blockchain</title>
+        <link>https://bcblockchain.org/</link>
+        <description>BC Blockchain is the Boston College Cryptocurrency and DeFi club, focused on creating the future of finance</description>
+        <generator>Hugo 0.88.1 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+            <managingEditor>clarkui@bc.edu (By Andy C.)</managingEditor>
+        
+        
+            <webMaster>clarkui@bc.edu (By Andy C.)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Tue, 05 Oct 2021 00:38:35 -0400</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://bcblockchain.org/rss.xml" />
+        
+        
+            <item>
+                <title>BC Blockchain</title>
+                <link>https://bcblockchain.org/posts/bc_blockchain/</link>
+                <guid isPermaLink="true">https://bcblockchain.org/posts/bc_blockchain/</guid>
+                <pubDate>Fri, 24 Sep 2021 17:48:06 -0400</pubDate>
+                
+                    <author>clarkui@bc.edu (By Andy C.)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;Welcome to BC Blockchain&amp;rsquo;s new website. We&amp;rsquo;re excited to bring you all plenty of conferences, workshops, and activities throughout the year. We look forward to expanding the club&amp;rsquo;s reach and designing a new era of blockchain at BC.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re expanding rapidly, and are currently looking for students who are interested in being analysts. Responsibilities include studying developments in the blockchain space and helping to write proposals for Venture Capital and DeFi grants.&lt;/p&gt;
+&lt;p&gt;To join the mailing list, either click the link in the footer or &lt;a href=&#34;http://eepurl.com/hdA6Sn&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;ve got any feedback or comments on the website, please contact &lt;a href=&#34;mailto:clarkui@bc.edu&#34;&gt;clarkui@bc.edu&lt;/a&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>

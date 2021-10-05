@@ -226,13 +226,13 @@ uglyURLs = false
         name = "Resources"
         weight = 4
         pre = "internal"
-        post = "tags"
+        post = "info"
     [[menu.main]]
         url = "/about/"
         name = "About Us"
         weight = 5
         pre = "internal"
-        post = "info"
+        post = "link"
     [[menu.main]]
         url = "/ourteam"
         name = "Our Team"
@@ -368,7 +368,7 @@ uglyURLs = false
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "AierusX"
+    siteTwitter = "@Blockchain_BC"
     # Note: used for Twitter Cards
 
 
@@ -587,8 +587,8 @@ uglyURLs = false
     # HTML Head Meta, SEO & Social Discovery
 
     jsonLD = true
-    openGraph = false
-    twitterCards = false
+    openGraph = true
+    twitterCards = true
     # ATTENTION: If you set twitterCards
     #            to `true`, be sure to
     #            enable openGraph also.
@@ -1059,7 +1059,7 @@ uglyURLs = false
     ######################################
     ## Drop Cap
 
-    enableDropCap = true
+    enableDropCap = false
     # Note: *global settings*
     #       `dropCap` in post’s Front Matter
     #       has a higher priority than here
