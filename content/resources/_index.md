@@ -30,6 +30,7 @@ draft: false
 - [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
 - [Ethereum in 25 Minutes](https://www.youtube.com/watch?v=66SaEDzlmP4&feature=youtu.be)
 - [Introduction to Smart Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
+- [What is gas?](https://etherchain.org/tools/gasnow)
 
 <h2> Web 3.0 </h2>
 
@@ -42,6 +43,8 @@ draft: false
 - [What is DeFi?](https://99bitcoins.com/what-is-defi/)
 - [DeFi Applications](https://dappradar.com/defi)
 - [DeFi Pulse](https://defipulse.com)
+- [Impermanent Loss Calculator](https://dailydefi.org/tools/impermanent-loss-calculator/)
+- [Automated Market Makers (AMM's)](https://medium.com/dragonfly-research/what-explains-the-rise-of-amms-7d008af1c399)
 
 <h2> Decentralization </h2>
 
@@ -63,6 +66,8 @@ draft: false
 
 - [Crypto Library](https://cryptolibrary.fulvia.xyz/)
 - [a16z NFT Readings](https://a16z.com/2021/04/02/nfts-readings-resources/)
+- [BC Blockchain Twitter List](https://twitter.com/i/lists/1450620366724878342?s=20)
+- [Working in Web 3.0](https://web3.smsunarto.com/)
 
 <h2> Newsletters:   </h2>
 

@@ -32,7 +32,7 @@ BC Blockchain's alumni have gone to work at many notable blockchain organization
   .gallery {
       display: grid;
       grid-template-columns: repeat(5, 1fr);
-      grid-template-rows: repeat(12, 5vw);
+      grid-template-rows: repeat(6=6, 5vw);
       grid-gap: 0.5rem;
   }
   .gallery__img {
@@ -87,42 +87,45 @@ BC Blockchain's alumni have gone to work at many notable blockchain organization
     <img src="/alumni/energi.png" class = "gallery__img" alt="energi">
   </figure>
   <figure class="gallery__item gallery__item--14">
-    <img src="/alumni/flipside.png" class = "gallery__img" alt="flipside">
+    <img src="/alumni/ey.jpeg" class = "gallery__img" alt="ey">
   </figure>
   <figure class="gallery__item gallery__item--15">
-    <img src="/alumni/genesis.jpg" class = "gallery__img" alt="genesis">
+    <img src="/alumni/flipside.png" class = "gallery__img" alt="flipside">
   </figure>
   <figure class="gallery__item gallery__item--16">
-    <img src="/alumni/hex.png" class = "gallery__img" alt="hex">
+    <img src="/alumni/genesis.jpg" class = "gallery__img" alt="genesis">
   </figure>
   <figure class="gallery__item gallery__item--17">
-    <img src="/alumni/hypersphere.jpg" class = "gallery__img" alt="hypersphere">
+    <img src="/alumni/hex.png" class = "gallery__img" alt="hex">
   </figure>
   <figure class="gallery__item gallery__item--18">
-    <img src="/alumni/inj.jpg" class = "gallery__img" alt="inj">
+    <img src="/alumni/hypersphere.jpg" class = "gallery__img" alt="hypersphere">
   </figure>
   <figure class="gallery__item gallery__item--19">
-    <img src="/alumni/lukka.jpg" class = "gallery__img" alt="lukka">
+    <img src="/alumni/inj.jpg" class = "gallery__img" alt="inj">
   </figure>
   <figure class="gallery__item gallery__item--20">
-    <img src="/alumni/marcopolo.png" class = "gallery__img" alt="marcopolo">
+    <img src="/alumni/lukka.jpg" class = "gallery__img" alt="lukka">
   </figure>
   <figure class="gallery__item gallery__item--21">
-    <img src="/alumni/messari.png" class = "gallery__img" alt="messari">
+    <img src="/alumni/marcopolo.png" class = "gallery__img" alt="marcopolo">
   </figure>
   <figure class="gallery__item gallery__item--22">
-    <img src="/alumni/metrika.png" class = "gallery__img" alt="metrika">
+    <img src="/alumni/messari.png" class = "gallery__img" alt="messari">
   </figure>
   <figure class="gallery__item gallery__item--23">
-    <img src="/alumni/pantera.jpg" class = "gallery__img" alt="pantera">
+    <img src="/alumni/metrika.png" class = "gallery__img" alt="metrika">
   </figure>
   <figure class="gallery__item gallery__item--24">
-    <img src="/alumni/smart.png" class = "gallery__img" alt="smart">
+    <img src="/alumni/pantera.jpg" class = "gallery__img" alt="pantera">
   </figure>
   <figure class="gallery__item gallery__item--25">
-    <img src="/alumni/tezos.png" class = "gallery__img" alt="tezos">
+    <img src="/alumni/smart.png" class = "gallery__img" alt="smart">
   </figure>
   <figure class="gallery__item gallery__item--26">
+    <img src="/alumni/tezos.png" class = "gallery__img" alt="tezos">
+  </figure>
+  <figure class="gallery__item gallery__item--27">
     <img src="/alumni/triblock.png" class = "gallery__img" alt="triblock">
   </figure>
 </div>

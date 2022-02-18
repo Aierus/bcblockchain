@@ -2,26 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bcblockchain.org/posts/bc_blockchain/</loc>
-    <lastmod>2021-10-04T22:12:39-04:00</lastmod>
+    <loc>https://bcblockchain.org/posts/necc/</loc>
+    <lastmod>2022-01-02T23:00:24-05:00</lastmod>
   </url><url>
     <loc>https://bcblockchain.org/posts/</loc>
-    <lastmod>2021-10-04T22:12:39-04:00</lastmod>
+    <lastmod>2022-01-02T23:00:24-05:00</lastmod>
+  </url><url>
+    <loc>https://bcblockchain.org/posts/ethl2/</loc>
+    <lastmod>2022-01-02T12:50:23-05:00</lastmod>
+  </url><url>
+    <loc>https://bcblockchain.org/posts/bc_blockchain/</loc>
+    <lastmod>2021-12-29T18:04:18-05:00</lastmod>
   </url><url>
     <loc>https://bcblockchain.org/about/</loc>
-    <lastmod>2021-10-05T18:12:38-04:00</lastmod>
+    <lastmod>2021-10-31T17:52:31-04:00</lastmod>
   </url><url>
     <loc>https://bcblockchain.org/</loc>
-    <lastmod>2021-10-04T21:57:53-04:00</lastmod>
+    <lastmod>2021-12-29T18:12:37-05:00</lastmod>
   </url><url>
     <loc>https://bcblockchain.org/events/</loc>
-    <lastmod>2021-10-02T17:45:48-04:00</lastmod>
+    <lastmod>2021-12-29T18:30:41-05:00</lastmod>
   </url><url>
     <loc>https://bcblockchain.org/resources/</loc>
-    <lastmod>2021-10-05T18:26:16-04:00</lastmod>
+    <lastmod>2021-11-22T14:03:04-05:00</lastmod>
   </url><url>
     <loc>https://bcblockchain.org/ourteam/</loc>
-    <lastmod>2021-10-05T18:30:20-04:00</lastmod>
+    <lastmod>2022-01-17T17:00:37-05:00</lastmod>
   </url><url>
     <loc>https://bcblockchain.org/categories/</loc>
   </url><url>
